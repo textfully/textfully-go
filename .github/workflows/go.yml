@@ -1,4 +1,5 @@
-name: Build, Test, and Upload Coverage
+# This workflow will build, test, and upload coverage for the Go package
+name: Go
 
 on: push
 
