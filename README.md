@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Go Reference](https://pkg.go.dev/badge/github.com/gtfol/textfully-go.svg)](https://pkg.go.dev/github.com/gtfol/textfully-go)
 ![Release](https://img.shields.io/github/release/gtfol/textfully-go.svg?style=flat-square)
+
 ---
 
 The official Go SDK for [Textfully](https://textfully.dev) — The Open Source Twilio Alternative.
@@ -27,7 +28,7 @@ import (
 
 func main() {
     // Set your API key
-    client := textfully.New("tx_123")
+    client := textfully.New("tx_apikey")
 
     // Send a message
     _, err := client.Send(
@@ -40,3 +41,7 @@ func main() {
 }
 
 ```
+
+## Contributing
+
+Contributing to the Go library is a great way to get involved with the Textfully community. Reach out to us on [Discord](https://discord.gg/Ct6FDCpFBU) or through email at [textfully@gtfol.inc](mailto:textfully@gtfol.inc) if you want to get involved.
