@@ -17,6 +17,16 @@
 # Go workspace file
 go.work
 go.work.sum
+go.sum
 
 # env file
 .env
+
+# VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
