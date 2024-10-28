@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Go Reference](https://pkg.go.dev/badge/github.com/gtfol/textfully-go.svg)](https://pkg.go.dev/github.com/gtfol/textfully-go)
+![Build](https://github.com/resend/resend-go/actions/workflows/go.yml/badge.svg)
+[![Coverage](https://img.shields.io/codecov/c/github/gtfol/textfully-go)](https://codecov.io/gh/gtfol/textfully-go)
 ![Release](https://img.shields.io/github/release/gtfol/textfully-go.svg?style=flat-square)
 
 ---
