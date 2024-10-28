@@ -1,9 +1,10 @@
 # Textfully Go SDK
 
+[![Code style: gofmt](https://img.shields.io/badge/code%20style-gofmt-00add8.svg)](https://pkg.go.dev/cmd/gofmt)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Go Reference](https://pkg.go.dev/badge/github.com/gtfol/textfully-go.svg)](https://pkg.go.dev/github.com/gtfol/textfully-go)
 ![Build](https://github.com/gtfol/textfully-go/actions/workflows/go.yml/badge.svg)
-[![codecov](https://img.shields.io/codecov/c/github/gtfol/textfully-go)](https://codecov.io/gh/gtfol/textfully-go)
+[![codecov](https://codecov.io/gh/gtfol/textfully-go/branch/main/graph/badge.svg)](https://codecov.io/gh/gtfol/textfully-go)
 ![Release](https://img.shields.io/github/release/gtfol/textfully-go.svg?style=flat-square)
 
 ---
