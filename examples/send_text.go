@@ -10,7 +10,6 @@ import (
 )
 
 func main() {
-	// Load .env file from the same directory as the executable
 	if err := godotenv.Load(filepath.Join(".", ".env")); err != nil {
 		log.Println("Warning: .env file not found")
 	}
